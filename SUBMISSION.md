@@ -4,6 +4,14 @@ You must install Java 10 and Maven 3.6.1 at least
 
 ### Running
 
+### Repository in my GitHub
+
+Clone my project from my GitHub.
+
+````
+git clone https://github.com/roanbrasil/airport-connection-service.git
+````
+
 To run the content, first at all you should
 
 ```
